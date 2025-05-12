@@ -5,8 +5,8 @@
 
 #### A Full-Stack Developer by day ☼ and a musicist and gamer by night ☾
 
-FP&A Intern at [Vivo - Telefonica Brazil](https://vivo.com.br) 💜;<br>
-Full-Stack Developer **</>**;<br> <!-- ADICIONAR LINK PARA O PORTFÓLIO -->
+*FP&A Intern at [Vivo - Telefonica Brazil](https://vivo.com.br) 💜*;<br>
+*Full-Stack Developer **</>***;<br> <!-- ADICIONAR LINK PARA O PORTFÓLIO -->
 
 - ⚙️ I use daily: `.js`, `.ts`, `.html`, `.css`, `.jsx`, `.tsx`, `.yml`
 - 💬 `ping` me about **coding**, **music**, **games**, <ins>***any topic, no limits***</ins>
