@@ -34,3 +34,11 @@ const samuel = {
   about: "Developer passionate about learning and creating innovative solutions",
 }
 ```
+
+<br>
+
+**Expand to view**
+<details>
+  <summary><b>:zap: GitHub Profile Stat</b></summary>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=samuelleitee&show_icons=true" />
+</details>
