@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-[![Linkedin: Samuel Leite](https://img.shields.io/badge/-samuel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-leite-pereira/)](https://www.linkedin.com/in/samuel-leite-pereira/)
+[![Linkedin: Samuel](https://img.shields.io/badge/Samuel_Leite-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com\in\samuelleitee)
 [![GitHub Samuel](https://img.shields.io/github/followers/Samuel?label=follow&style=social)](https://github.com/samuelleitee)
 
 #### A Full-Stack Developer by day ☼ and a musicist and gamer by night ☾
