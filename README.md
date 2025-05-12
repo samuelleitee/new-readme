@@ -8,14 +8,29 @@
 FP&A Intern at [Vivo - Telefonica Brazil](https://vivo.com.br) 💜;<br>
 Full-Stack Developer **</>**;<br> <!-- ADICIONAR LINK PARA O PORTFÓLIO -->
 
-- ⚙️ I use daily: `.js`, `.ts`, `.html`, `.css`, `.jsx`, `.tsx`, `.ai`
+- ⚙️ I use daily: `.js`, `.ts`, `.html`, `.css`, `.jsx`, `.tsx`, `.yml`
 - 💬 `ping` me about **coding**, **music**, **games**, <ins>***any topic, no limits***</ins>
 
 ```javascript
 const samuel = {
   pronouns: "he" | "him",
+  education: [],
   code: [Javascript, Typescript, HTML, CSS, Python, Java],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  learning: [Angular, Spring Boot],
+  projects: [
+    {
+      name: "Ignite Feed",
+      description: "Ignite Feed simulates a social media feed with features like comments, reactions (applause), and the option to delete        comments. Developed in Rocketseat's ReactJS Track, this project covers fundamental React concepts such as state management, event          handling, and reusable component creation",
+      url: "https://github.com/samuelleitee/ignite-feed",
+    },
+    {
+      name: "We-HR",
+      description: "Static Human Resources Dashboard"
+      url: "https://github.com/samuelleitee/we-hr"
+    }
+  ],
   architecture: ["microservices", "event-driven", "design system pattern"],
+  about: "Developer passionate about learning and creating innovative solutions",
 }
 ```
