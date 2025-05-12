@@ -26,7 +26,7 @@ const samuel = {
     },
     {
       name: "We-HR",
-      description: "Static Human Resources Dashboard"
+      description: "Static Human Resources Dashboard",
       url: "https://github.com/samuelleitee/we-hr"
     }
   ],
