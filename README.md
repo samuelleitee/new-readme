@@ -14,7 +14,8 @@
 ```javascript
 const samuel = {
   pronouns: "he" | "him",
-  education: [],
+  education: ["Technologist Diploma in Software Analysis and Development at FATEC-SP", "Technical Degree in Software Development at SENAI"],
+  languages: ["English", "Spanish", "Portuguese"],
   code: [Javascript, Typescript, HTML, CSS, Python, Java],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   learning: [Angular, Spring Boot],
